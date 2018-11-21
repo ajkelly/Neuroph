@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b76cdccc-3c51-4486-af56-d7bd1c9e3002" name="Default" comment="">
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/filetypes.xml" />
+      <change beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.state.xml" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/ArrayStuff.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/out/production/ArrayStuff/arrayChallenge/Contacts.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/out/production/ArrayStuff/arrayChallenge/MobilePhone.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/out/production/ArrayStuff/arrayChallenge/MobilePhoneMain.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/out/production/ArrayStuff/udemyVideos/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/src/arrayChallenge/Contacts.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/src/arrayChallenge/MobilePhone.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/src/arrayChallenge/MobilePhoneMain.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ArrayStuff/src/udemyVideos/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/Inheritence.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/burgerChallenge/BurgerMain.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/burgerChallenge/ClassicBurger.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/burgerChallenge/DeluxeBurger.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/burgerChallenge/HealthyBurger.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/compositionExample/Dimensions.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/compositionExample/Lamp.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/compositionExample/Lounge.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/compositionExample/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/compositionExample/Resolution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/compositionExample/TV.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/compositionExample/TheMirror.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/printerChallenge/Printer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/out/production/Composition/printerChallenge/PrinterMain.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/burgerChallenge/BurgerMain.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/burgerChallenge/ClassicBurger.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/burgerChallenge/DeluxeBurger.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/burgerChallenge/HealthyBurger.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/compositionExample/Dimensions.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/compositionExample/Lamp.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/compositionExample/Lounge.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/compositionExample/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/compositionExample/Resolution.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/compositionExample/TV.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/compositionExample/TheMirror.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/printerChallenge/Printer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../Composition/src/printerChallenge/PrinterMain.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../EasyStuff/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../EasyStuff/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../EasyStuff/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../EasyStuff/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../EasyStuff/EasyStuff.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../EasyStuff/out/production/EasyStuff/Practise.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../EasyStuff/src/Practise.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/GenericsChallenge.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/out/production/GenericsChallenge/udemyVideos/CricketPlayer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/out/production/GenericsChallenge/udemyVideos/FootballPlayer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/out/production/GenericsChallenge/udemyVideos/LeagueTable.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/out/production/GenericsChallenge/udemyVideos/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/out/production/GenericsChallenge/udemyVideos/Player.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/out/production/GenericsChallenge/udemyVideos/RugbyPlayer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/out/production/GenericsChallenge/udemyVideos/Team.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/src/udemyVideos/CricketPlayer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/src/udemyVideos/FootballPlayer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/src/udemyVideos/LeagueTable.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/src/udemyVideos/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/src/udemyVideos/Player.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/src/udemyVideos/RugbyPlayer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChallenge/src/udemyVideos/Team.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/udemyVideos/Album.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/udemyVideos/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/udemyVideos/Song.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Neuroph.iml" afterPath="$PROJECT_DIR$/Neuroph.iml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Neuroph/project/PractiseNeuroph.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SummerProject/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/SummerProject.iml" afterPath="$PROJECT_DIR$/../SummerProject/SummerProject.iml" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/DataObjects/Match.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/DataObjects/Player.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Database/CleanDatabase.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Database/CleanDatabase.java" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Database/ConnectDB.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Database/ConnectDB.java" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Database/CreateData.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Database/CreateData.java" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Database/CreateTables.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Database/CreateTables.java" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Database/FinaliseDatabase.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Database/FinaliseDatabase.java" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Database/Normalise.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Database/Normalise.java" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Database/ReadFiles.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Database/ReadFiles.java" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Database/StandardiseNonNumeric.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Database/StandardiseNonNumeric.java" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/NeuralNetwork/ActivationFunction.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/NeuralNetwork/Backprop.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/NeuralNetwork/Layer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../SummerProject/src/Utils/RandomNumberGenerator.java" afterPath="$PROJECT_DIR$/../SummerProject/src/Utils/RandomNumberGenerator.java" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode/UdemyCode1.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode/out/production/UdemyCode/udemyVideos/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode/src/udemyVideos/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode2/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode2/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode2/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode2/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode2/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode2/UdemyCode2.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode2/out/production/UdemyCode2/udemyVideos/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyCode2/src/udemyVideos/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/UdemyCode3.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/out/production/UdemyCode3/udemyVideos/BankAccount.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/out/production/UdemyCode3/udemyVideos/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/src/udemyVideos/BankAccount.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../UdemyVideos3/src/udemyVideos/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/.idea/description.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/.idea/project-template.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/out/production/threadPool/udemyVideos/AnotherThread.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/out/production/threadPool/udemyVideos/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/src/udemyVideos/AnotherThread.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/src/udemyVideos/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../threadPool/threadPool.iml" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/project/Main.java" />
+        <option value="$PROJECT_DIR$/src/project/PractiseNeuroph.java" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="16" />
+    <option name="y" value="23" />
+    <option name="width" value="1260" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Neuroph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Neuroph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Neuroph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Neuroph" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Neuroph" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Neuroph" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="project.PractiseNeuroph" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Neuroph" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b76cdccc-3c51-4486-af56-d7bd1c9e3002" name="Default" comment="" />
+      <created>1530878576039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530878576039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="16" y="23" width="1260" height="797" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/project/PractiseNeuroph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/PractiseNeuroph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/PractiseNeuroph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/neuroph-2.92.jar!/org/neuroph/nnet/learning/BackPropagation.class" />
+    <entry file="jar://$USER_HOME$/Downloads/neuroph-2.92.jar!/org/neuroph/core/learning/LearningRule.class" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3300">
+          <caret line="254" column="0" lean-forward="false" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2281">
+          <caret line="356" column="0" lean-forward="false" selection-start-line="356" selection-start-column="0" selection-end-line="356" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/description.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/project-template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="14" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/project/PractiseNeuroph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Neuroph</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
